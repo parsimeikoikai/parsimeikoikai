@@ -45,7 +45,7 @@ I am deeply passionate about building modern, innovative products and thrive on 
 
 ## Connect with Me
 
-You can connect with me on [Twitter](https://twitter.com/yourusername) and [LinkedIn](https://linkedin.com/in/yourusername).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/robert-parsimei).
 
 
 
