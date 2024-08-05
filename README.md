@@ -27,6 +27,11 @@ I am currently building [ReliefOps](https://reliefops.online/), an AI-powered sy
 - **Predictive Analytics for Crisis Response:** Employing algorithms to analyze historical data on humanitarian crises, identifying patterns and trends to predict future emergencies. This enables proactive planning and resource allocation for effective crisis response.
 - **Blockchain for Transparent Supply Chain Management:** Integrating blockchain technology with AI-powered systems to create transparent and auditable supply chains for aid distribution. This enhances accountability, reduces fraud, and ensures aid reaches intended beneficiaries.
 
+#### Tech Stack
+- **Backend:** NEST JS, PosgtreSQL
+- **Frontend:** React JS, Tailwind css.
+- **Landing Page:** Next JS
+
 ### Morus-bassanus
 I am also working on [Morus-bassanus](https://github.com/parsimeikoikai/Morus-bassanus), a platform designed to provide instant support and facilitate informed decision-making for humanitarians. This system integrates various data sources, including ChatGPT, and aims to enhance crisis response and resource management.
 
@@ -41,6 +46,26 @@ I am also working on [Morus-bassanus](https://github.com/parsimeikoikai/Morus-ba
 - **Security and Privacy:** Data protection, access controls, and offline access.
 - **User Feedback and Improvement:** Mechanisms for user feedback and continuous improvement.
 
+#### Tech Stack
+- **Backend:** Flask,Express JS,MongoDB
+- **Frontend:** React JS, Tailwind css.
+
+
+### EcoCredit
+I am also working on [EcoCredit]([https://github.com/parsimeikoikai/Morus-bassanus](https://ecocredit.pro/)), a comprehensive solution designed to manage farmer profiles, payments, loan disbursements, and associated functionalities. The system supports various modules to handle farmer data, financial transactions, loan management, verification, reporting, and user authentication.
+
+#### Key Features
+- **Farmer Profile Module:** Manage basic farmer information necessary for payments, loan disbursement, reconciliations, and reporting.
+- **Payment Module:** ARemit carbon credit sales proceeds to farmers.
+- **Loan Management Module:** Disburse farm inputs as customized loan products.
+- **Farmer Payment Method Verification Module:** Verify farmer phone numbers with payment service providers.
+- **User Management and Personalization:** User profiles, custom alerts, and notifications.
+- **Backups Module :** Ensure data protection and recovery.
+  
+#### Tech Stack
+- **Backend:** Django,PosgtreSQL
+- **Frontend:** React JS ,Next JS
+  
 
 ## Education
 
