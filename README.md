@@ -1,4 +1,4 @@
-# Hi there, I'm Robert Parsimei 👋
+# Hi there, I'm Robert Parsimei Koikai 👋
 
 ## Senior Software Engineer
 
