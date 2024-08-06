@@ -53,7 +53,7 @@ I am also working on [Morus-bassanus](https://github.com/parsimeikoikai/Morus-ba
 
 ### EcoCredit
 
-I am also working on [EcoCredit](https://ecocredit.pro/), a comprehensive solution designed to manage farmer profiles, payments, loan disbursements, and related functionalities.
+I am also working on [EcoCredit](https://ecocredit.netlify.app), a comprehensive solution designed to manage farmer profiles, payments, loan disbursements, and related functionalities.
 
 #### Key Features
 - **Farmer Profile Module:** Managing farmer data for payments and reporting.
