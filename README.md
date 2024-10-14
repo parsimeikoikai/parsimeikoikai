@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer
 
-With over six years of experience in software development, I leverage my skills in Node, React, Python, and various other technologies to craft web applications and services tailored to meet the unique needs of clients and users. My proficiency extends to projects involving JavaScript, Python, AWS, and GCP, employing serverless architecture and deployment techniques. My approach is to focus on innovative solutions and deliver high-quality, scalable software that meets user needs.
+With over seven years of experience in software development, I leverage my skills in Node, React, Python, and various other technologies to craft web applications and services tailored to meet the unique needs of clients and users. My proficiency extends to projects involving JavaScript, Python, AWS, and GCP, employing serverless architecture and deployment techniques. My approach is to focus on innovative solutions and deliver high-quality, scalable software that meets user needs.
 
 ## Technical Skills
 
