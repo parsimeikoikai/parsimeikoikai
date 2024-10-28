@@ -6,7 +6,7 @@ With over seven years of experience in software development, I leverage my skill
 
 ## Technical Skills
 
-- **Languages & Frameworks:** JavaScript, Python, Node.js, Express JS, Nest JS, Loopback JS, React
+- **Languages & Frameworks:** JavaScript, Node.js(Express JS, Nest JS,Loopback JS), React,Typescript , Python
 - **Cloud Services:** AWS, GCP
 - **Architecture:** Serverless, Microservices ,Monolith
 
