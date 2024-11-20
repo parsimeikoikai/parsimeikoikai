@@ -1,8 +1,17 @@
 # Hi there, I'm Robert Parsimei Koikai 👋
 
-## Senior Software Engineer
+## Senior Software Engineer  //  Aspiring Digital Transformation Consultant
 
-With over seven years of experience in software development, I leverage my skills in Node, React, Python, and various other technologies to craft web applications and services tailored to meet the unique needs of clients and users. My proficiency extends to projects involving JavaScript, Python, AWS, and GCP, employing serverless architecture and deployment techniques. My approach is to focus on innovative solutions and deliver high-quality, scalable software that meets user needs.
+I am passionate about leveraging technology to drive impactful change within organizations by streamlining processes, enhancing digital capabilities, and supporting growth and resilience. As I transition into digital transformation consulting, I am focused on creating scalable, user-centered solutions that help businesses navigate and thrive in today’s digital landscape.
+
+As a Senior Software Engineer with over seven years of experience, I specialize in technologies like Node, React, JavaScript, Python,Laravel, AWS, and GCP to build robust web applications and services. My expertise in serverless architecture and deployment techniques enables me to deliver modern, scalable solutions that align with digital transformation goals.
+
+With a strong foundation in Node.js and its frameworks—including Express, Nest, and Loopback—I have led diverse web development projects, demonstrating versatility and problem-solving. My role often extends beyond development into leadership and project management, where I coordinate cross-functional teams, manage timelines, and ensure successful project delivery.
+
+Currently pursuing a Master’s in Digital Transformation to deepen my understanding of how technology shapes organizational change, I am well-equipped to bridge the gap between technical implementation and strategic goals. My academic background in Mathematics and Computer Science provides me with strong analytical skills, which I apply to tackle complex challenges and drive innovation.
+
+I thrive in collaborative environments and enjoy working alongside cross-functional teams to deliver high-quality software solutions. My leadership and project management abilities allow me to guide teams effectively, tackle complex challenges, and bring projects to successful completion.
+
 
 ## Technical Skills
 
