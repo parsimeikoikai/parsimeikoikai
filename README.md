@@ -12,10 +12,12 @@ Currently pursuing a Master’s in Digital Transformation to deepen my understan
 
 I thrive in collaborative environments and enjoy working alongside cross-functional teams to deliver high-quality software solutions. My leadership and project management abilities allow me to guide teams effectively, tackle complex challenges, and bring projects to successful completion.
 
+I am also actively expanding my skill set by learning Go, further diversifying my technical expertise.
+
 
 ## Technical Skills
 
-- **Languages & Frameworks:** JavaScript, Node.js(Express JS, Nest JS,Loopback JS), React,Typescript,Python,Laravel,CodeIgniter
+- **Languages & Frameworks:** JavaScript, Node.js (Express JS, Nest JS, Loopback JS), React, TypeScript, Python, Laravel, CodeIgniter, Go (learning)
 - **Cloud Services:** AWS, GCP
 - **Databases:** MySQL,PostgreSQL,MongoDB,Firebase
 - **Architecture:** Serverless, Microservices ,Monolith 
