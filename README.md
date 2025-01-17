@@ -1,6 +1,6 @@
 # Hi there, I'm Robert Parsimei Koikai 👋
 
-## Senior Software Engineer  //  Aspiring Digital Transformation Consultant
+## Senior Software Engineer  //   Digital Transformation Consultant
 
 I am passionate about leveraging technology to drive impactful change within organizations by streamlining processes, enhancing digital capabilities, and supporting growth and resilience. As I transition into digital transformation consulting, I am focused on creating scalable, user-centered solutions that help businesses navigate and thrive in today’s digital landscape.
 
