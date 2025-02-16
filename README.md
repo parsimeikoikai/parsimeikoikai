@@ -30,9 +30,9 @@ Throughout my career, I've contributed to diverse web development projects, show
 
 I strongly believe in the power of open source and actively contribute to various projects to foster collaboration and knowledge-sharing within the tech community. Some of my open-source initiatives include:
 
-	•	osquery-pack-converter[https://github.com/parsimeikoikai/osquery-pack-converter.git] – A tool to convert queries into LML format for execution using fleetctl.
-  •	Actively Contributed to [FleetDM](https://github.com/fleetdm/),[Deep](https://github.com/the-deep/),
-	•	Actively engaging in discussions, submitting pull requests, and reviewing code in open-source communities.
+- osquery-pack-converter[https://github.com/parsimeikoikai/osquery-pack-converter.git] – A tool to convert queries into LML format for execution using fleetctl.
+- Actively Contributed to [FleetDM](https://github.com/fleetdm/),[Deep](https://github.com/the-deep/),
+- Actively engaging in discussions, submitting pull requests, and reviewing code in open-source communities.
 
 I am always open to contributing to impactful projects and collaborating with other developers to improve open-source tools.
 
