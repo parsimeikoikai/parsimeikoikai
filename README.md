@@ -26,6 +26,16 @@ I am also actively expanding my skill set by learning Go, further diversifying m
 
 Throughout my career, I've contributed to diverse web development projects, showcasing my versatility and dedication to building modern, innovative products. My work spans from backend services to frontend applications, always focusing on delivering high-quality software solutions.
 
+##  Open Source Contributions
+
+I strongly believe in the power of open source and actively contribute to various projects to foster collaboration and knowledge-sharing within the tech community. Some of my open-source initiatives include:
+
+	•	osquery-pack-converter[https://github.com/parsimeikoikai/osquery-pack-converter.git] – A tool to convert queries into LML format for execution using fleetctl.
+  •	Actively Contributed to [FleetDM](https://github.com/fleetdm/),[Deep](https://github.com/the-deep/),
+	•	Actively engaging in discussions, submitting pull requests, and reviewing code in open-source communities.
+
+I am always open to contributing to impactful projects and collaborating with other developers to improve open-source tools.
+
 ## Current Projects
 
 ### ReliefOps
