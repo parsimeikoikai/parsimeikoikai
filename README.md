@@ -40,7 +40,7 @@ I am always open to contributing to impactful projects and collaborating with ot
 
 ### ReliefOps
 
-I am currently building [ReliefOps](https://reliefops.online/), an AI-powered system designed to enhance the efficiency, transparency, and effectiveness of aid distribution processes.
+I am currently building [ReliefOps]([https://reliefops.online/](https://reliefops-parsimeikoikais-projects.vercel.app/)), an AI-powered system designed to enhance the efficiency, transparency, and effectiveness of aid distribution processes.
 
 #### Problems Addressed
 - **Optimized Routing and Logistics:** AI algorithms for efficient aid delivery.
