@@ -89,6 +89,12 @@ I am also working on [EcoCredit](https://ecocredit.pro), a comprehensive solutio
 - **Backend:** Django, PostgreSQL
 - **Frontend:** React JS, Next JS
 
+### EventsLeo
+
+I am also working on [EventsLeo](https://www.eventleo.shop), an Event planning, coordination, and management workflows platform.
+-  Scalable digital tools for organizing and managing events
+-  Improved visibility and operational efficiency for event teams
+
 ## Education
 
 - **Bachelor's Degree in Mathematics and Computer Science**
