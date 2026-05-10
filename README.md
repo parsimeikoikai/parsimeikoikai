@@ -18,7 +18,7 @@ I am also actively expanding my skill set by learning Go, further diversifying m
 ## Technical Skills
 
 - **Languages & Frameworks:** JavaScript, Node.js (Express JS, Nest JS, Loopback JS), React, TypeScript, Python, Laravel, CodeIgniter, Go (learning)
-- **Cloud Services:** AWS, GCP
+- **Cloud Services:** AWS, GCP, Azure
 - **Databases:** MySQL,PostgreSQL,MongoDB,Firebase
 - **Architecture:** Serverless, Microservices ,Monolith 
 
