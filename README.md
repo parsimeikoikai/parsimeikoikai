@@ -1,26 +1,33 @@
 # Hi there, I'm Robert Parsimei Koikai 👋
 
-## Senior Software Engineer  //  AI Engineer
+## Senior Software Engineer // AI Engineer | RAG Systems | LLMs | Python
 
-I am passionate about leveraging technology to drive impactful change within organizations by streamlining processes, enhancing digital capabilities, and supporting growth and resilience. As I transition into digital transformation consulting, I am focused on creating scalable, user-centered solutions that help businesses navigate and thrive in today’s digital landscape.
+I am a Senior Software Engineer and AI Engineer with over seven  years of experience building robust web applications and AI-powered 
+systems. I specialize in designing and deploying RAG (Retrieval Augmented Generation) systems, LLM integrations, and intelligent APIs using Python, FastAPI, and LangChain.
 
-As a Senior Software Engineer with over seven years of experience, I specialize in technologies like Node, React, JavaScript, Python,Laravel, AWS, and GCP to build robust web applications and services. My expertise in serverless architecture and deployment techniques enables me to deliver modern, scalable solutions that align with digital transformation goals.
+I build production-grade AI systems that solve real problems — from humanitarian aid optimization to financial document intelligence. 
+My background in Mathematics and Computer Science gives me a strong analytical foundation for tackling complex AI engineering challenges.
 
-With a strong foundation in Node.js and its frameworks—including Express, Nest, and Loopback—I have led diverse web development projects, demonstrating versatility and problem-solving. My role often extends beyond development into leadership and project management, where I coordinate cross-functional teams, manage timelines, and ensure successful project delivery.
-
-Currently pursuing a Master’s in Digital Transformation to deepen my understanding of how technology shapes organizational change, I am well-equipped to bridge the gap between technical implementation and strategic goals. My academic background in Mathematics and Computer Science provides me with strong analytical skills, which I apply to tackle complex challenges and drive innovation.
-
-I thrive in collaborative environments and enjoy working alongside cross-functional teams to deliver high-quality software solutions. My leadership and project management abilities allow me to guide teams effectively, tackle complex challenges, and bring projects to successful completion.
-
-I am also actively expanding my skill set by learning Go, further diversifying my technical expertise.
-
+Currently deepening my expertise in vector databases, embeddings, and AI agent architectures while pursuing a Master's in Digital 
+Transformation at Nexford University.
 
 ## Technical Skills
 
-- **Languages & Frameworks:** JavaScript, Node.js (Express JS, Nest JS, Loopback JS), React, TypeScript, Python, Laravel, CodeIgniter, Go (learning)
+
+### Software Engineering
+- **Languages & Frameworks:** JavaScript, Node.js, React, 
+  TypeScript, Python, Laravel, Go (learning)
 - **Cloud Services:** AWS, GCP, Azure
-- **Databases:** MySQL,PostgreSQL,MongoDB,Firebase
-- **Architecture:** Serverless, Microservices ,Monolith 
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
+- **Architecture:** Serverless, Microservices, Monolith
+
+### AI Engineering 
+- **LLMs:** OpenAI GPT, Claude (Anthropic)
+- **Frameworks:** LangChain, LlamaIndex
+- **Vector Databases:** Weaviate, Chroma, Pinecone
+- **Embeddings:** OpenAI Embeddings, Sentence Transformers
+- **APIs:** FastAPI, REST
+- **Data:** RAG pipelines, document ingestion, semantic search
 
 ## Experience
 
@@ -54,23 +61,21 @@ I am currently building [ReliefOps](https://reliefops-parsimeikoikais-projects.v
 - **Frontend:** React JS, Tailwind CSS
 - **Landing Page:** Next JS
 
-### Morus-bassanus
+### Morus-bassanus — RAG-Powered Humanitarian Assistant
 
-I am also working on [Morus-bassanus](https://github.com/parsimeikoikai/Morus-bassanus), a platform designed to support humanitarians with instant decision-making tools.
+An AI system built on Retrieval Augmented Generation (RAG) 
+that provides humanitarians with instant, context-aware 
+decision support by querying real-time crisis data.
 
-#### Key Features
-- **Crisis Information and Updates:** Real-time and historical crisis data.
-- **Multi-Source Integration:** Aggregating data for a comprehensive view.
-- **Decision Support Tools:** Interactive maps, charts, and predictive analytics.
-- **Communication and Collaboration:** Enhanced chat and team tools.
-- **User Management and Personalization:** Custom alerts and notifications.
-- **Resource Management:** Inventory tracking and distribution planning.
-- **Reporting and Documentation:** Automated tools for reporting.
-- **Security and Privacy:** Data protection and access controls.
-- **User Feedback and Improvement:** Continuous improvement based on user feedback.
+#### AI Engineering Highlights
+- Built a RAG pipeline integrating ReliefWeb and UN OCHA data sources
+- Implemented semantic search using Weaviate vector database
+- Designed LLM-powered Q&A with source attribution
+- FastAPI backend with LangChain orchestration
 
 #### Tech Stack
-- **Backend:** Flask, Express JS, MongoDB
+- **AI:** LangChain, Weaviate, OpenAI Embeddings
+- **Backend:** FastAPI, Python
 - **Frontend:** React JS, Tailwind CSS
 
 ### EcoCredit
@@ -105,6 +110,11 @@ I am also working on [EventsLeo](https://www.eventleo.shop), an Event planning, 
 ## Passion & Collaboration
 
 I am deeply passionate about building modern, innovative products and thrive on collaborating with professionals to deliver high-quality software solutions. I stay updated with industry trends through continuous learning and am always eager to tackle new challenges and opportunities.
+
+## Currently Learning
+- Vector database optimization (Weaviate, Pinecone)
+- AI agent architectures and tool use
+- LLM fine-tuning and prompt engineering
 
 ## Connect with Me
 
