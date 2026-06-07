@@ -45,7 +45,7 @@ I am always open to contributing to impactful projects and collaborating with ot
 
 ## Current Projects
 
-###[HumaLens](https://github.com/parsimeikoikai/humalens.git), — RAG-Powered Humanitarian Assistant
+### [HumaLens](https://github.com/parsimeikoikai/humalens.git), — RAG-Powered Humanitarian Assistant
 
 An AI system built on Retrieval Augmented Generation (RAG) 
 that provides humanitarians with instant, context-aware 
