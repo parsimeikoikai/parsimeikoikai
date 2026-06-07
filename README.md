@@ -61,7 +61,7 @@ I am currently building [ReliefOps](https://reliefops-parsimeikoikais-projects.v
 - **Frontend:** React JS, Tailwind CSS
 - **Landing Page:** Next JS
 
-### Morus-bassanus — RAG-Powered Humanitarian Assistant
+### HumaLens — RAG-Powered Humanitarian Assistant
 
 An AI system built on Retrieval Augmented Generation (RAG) 
 that provides humanitarians with instant, context-aware 
@@ -74,9 +74,11 @@ decision support by querying real-time crisis data.
 - FastAPI backend with LangChain orchestration
 
 #### Tech Stack
-- **AI:** LangChain, Weaviate, OpenAI Embeddings
+- **AI:** LangChain, Chroma, OpenAI Embeddings
 - **Backend:** FastAPI, Python
 - **Frontend:** React JS, Tailwind CSS
+
+[Link](https://github.com/parsimeikoikai/humalens.git)
 
 ### EcoCredit
 
