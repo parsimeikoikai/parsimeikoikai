@@ -45,23 +45,7 @@ I am always open to contributing to impactful projects and collaborating with ot
 
 ## Current Projects
 
-### ReliefOps
-
-I am currently building [ReliefOps](https://reliefops-parsimeikoikais-projects.vercel.app/), an AI-powered system designed to enhance the efficiency, transparency, and effectiveness of aid distribution processes.
-
-#### Problems Addressed
-- **Optimized Routing and Logistics:** AI algorithms for efficient aid delivery.
-- **Demand Forecasting and Resource Allocation:** Forecasting aid needs with data analysis.
-- **Real-time Monitoring and Feedback:** Tracking aid shipments and addressing challenges.
-- **Predictive Analytics for Crisis Response:** Analyzing data to predict and plan for emergencies.
-- **Blockchain for Transparent Supply Chain Management:** Ensuring accountability and reducing fraud in aid distribution.
-
-#### Tech Stack
-- **Backend:** NEST JS, PostgreSQL
-- **Frontend:** React JS, Tailwind CSS
-- **Landing Page:** Next JS
-
-### HumaLens — RAG-Powered Humanitarian Assistant
+###[HumaLens](https://github.com/parsimeikoikai/humalens.git), — RAG-Powered Humanitarian Assistant
 
 An AI system built on Retrieval Augmented Generation (RAG) 
 that provides humanitarians with instant, context-aware 
@@ -78,7 +62,6 @@ decision support by querying real-time crisis data.
 - **Backend:** FastAPI, Python
 - **Frontend:** React JS, Tailwind CSS
 
-[Link](https://github.com/parsimeikoikai/humalens.git)
 
 ### EcoCredit
 
