@@ -1,7 +1,6 @@
 # Hi there, I'm Robert Parsimei Koikai 👋
 
-## Senior Software Engineer // AI Engineer | RAG Systems | LLMs | Python
-
+## Senior Software Engineer // AI Engineer | RAG Systems | LLMs 
 I am a Senior Software Engineer and AI Engineer with over seven  years of experience building robust web applications and AI-powered 
 systems. I specialize in designing and deploying RAG (Retrieval Augmented Generation) systems, LLM integrations, and intelligent APIs using Python, FastAPI, and LangChain.
 
