@@ -46,20 +46,22 @@ I am always open to contributing to impactful projects and collaborating with ot
 
 ### [HumaLens](https://github.com/parsimeikoikai/humalens.git), — RAG-Powered Humanitarian Assistant
 
-An AI system built on Retrieval Augmented Generation (RAG) 
-that provides humanitarians with instant, context-aware 
-decision support by querying real-time crisis data.
+An AI-powered search and knowledge assistant built using Retrieval Augmented Generation (RAG). HumaLens enables users to query large collections of documents using natural language, retrieve relevant context, and generate accurate, source-backed answers.
 
 #### AI Engineering Highlights
-- Built a RAG pipeline integrating ReliefWeb and UN OCHA data sources
-- Implemented semantic search using Weaviate vector database
-- Designed LLM-powered Q&A with source attribution
-- FastAPI backend with LangChain orchestration
+* Designed and implemented an end-to-end RAG pipeline for document ingestion, processing, embedding, retrieval, and generation
+* Built semantic search capabilities using vector databases and embedding models
+* Implemented document chunking, metadata handling, and context retrieval strategies
+* Developed LLM-powered question answering with source attribution and citation support
+* Built streaming AI responses through a FastAPI backend
+* Integrated LangChain orchestration for LLM workflows and retrieval pipelines
 
 #### Tech Stack
-- **AI:** LangChain, Chroma, OpenAI Embeddings
-- **Backend:** FastAPI, Python
-- **Frontend:** React JS, Tailwind CSS
+* AI: LangChain, OpenAI Embeddings, LLM APIs, Retrieval Augmented Generation (RAG)
+* Vector Database: ChromaDB
+* Backend: FastAPI, Python
+* Frontend: React.js, Tailwind CSS
+* Infrastructure: Docker
 
 
 ### EcoCredit
