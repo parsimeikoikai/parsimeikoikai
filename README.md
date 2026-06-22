@@ -1,14 +1,15 @@
 # Hi there, I'm Robert Parsimei Koikai 👋
 
 ## Senior Software Engineer // AI Engineer | RAG Systems | LLMs 
-I am a Senior Software Engineer and AI Engineer with over seven  years of experience building robust web applications and AI-powered 
-systems. I specialize in designing and deploying RAG (Retrieval Augmented Generation) systems, LLM integrations, and intelligent APIs using Python, FastAPI, and LangChain.
+I am a Senior Software Engineer and AI Engineer with over seven years of experience designing, building, and deploying scalable web applications, backend systems, and AI-powered solutions.
 
-I build production-grade AI systems that solve real problems — from humanitarian aid optimization to financial document intelligence. 
-My background in Mathematics and Computer Science gives me a strong analytical foundation for tackling complex AI engineering challenges.
+My expertise spans full-stack development, cloud-native architectures, API design, and modern software engineering practices, with hands-on experience using technologies such as JavaScript, React, Node.js, Python, FastAPI, AWS, and GCP. I build reliable, production-grade systems with a focus on scalability, performance, maintainability, and clean architecture.
 
-Currently deepening my expertise in vector databases, embeddings, and AI agent architectures while pursuing a Master's in Digital 
-Transformation at Nexford University.
+I also specialize in AI engineering, including building RAG (Retrieval Augmented Generation) systems, integrating Large Language Models (LLMs), developing intelligent APIs, and working with technologies such as LangChain, vector databases, embeddings, and AI agent architectures.
+
+My background in Mathematics and Computer Science provides a strong analytical foundation for solving complex engineering and AI challenges. I have delivered solutions across domains including financial technology, humanitarian systems, and enterprise applications, combining strong software engineering principles with emerging AI capabilities.
+
+Currently expanding my expertise in advanced AI systems and digital transformation while pursuing a Master’s in Digital Transformation at Nexford University.
 
 ## Technical Skills
 
