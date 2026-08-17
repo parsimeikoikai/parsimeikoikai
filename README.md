@@ -98,11 +98,6 @@ I am also working on [EventsLeo](https://www.eventleo.shop), an Event planning, 
 
 I am deeply passionate about building modern, innovative products and thrive on collaborating with professionals to deliver high-quality software solutions. I stay updated with industry trends through continuous learning and am always eager to tackle new challenges and opportunities.
 
-## Currently Learning
-- Vector database optimization (Weaviate, Pinecone)
-- AI agent architectures and tool use
-- LLM fine-tuning and prompt engineering
-
 ## Connect with Me
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/robert-parsimei). Feel free to reach out if you'd like to discuss potential collaborations or opportunities.
