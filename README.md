@@ -1,103 +1,106 @@
 # Hi there, I'm Robert Parsimei Koikai 👋
 
-## Senior Software Engineer // AI Engineer | RAG Systems | LLMs 
-I am a Senior Software Engineer and AI Engineer with over seven years of experience designing, building, and deploying scalable web applications, backend systems, and AI-powered solutions.
+### Senior Software Engineer | AI Engineer | Backend Systems | RAG & LLMs
 
-My expertise spans full-stack development, cloud-native architectures, API design, and modern software engineering practices, with hands-on experience using technologies such as JavaScript, React, Node.js, Python, FastAPI, AWS, and GCP. I build reliable, production-grade systems with a focus on scalability, performance, maintainability, and clean architecture.
+I'm a Senior Software Engineer with over 7 years of experience designing, building, and maintaining scalable web applications, backend systems, APIs, and enterprise software. I specialize in backend engineering, full-stack development, system architecture, and integrating AI capabilities into practical, production-oriented solutions.
 
-I also specialize in AI engineering, including building RAG (Retrieval Augmented Generation) systems, integrating Large Language Models (LLMs), developing intelligent APIs, and working with technologies such as LangChain, vector databases, embeddings, and AI agent architectures.
+My core stack includes **TypeScript, JavaScript, Node.js, React, Python, SQL, and cloud technologies**. I enjoy solving complex engineering problems, designing maintainable systems, improving application performance, and building reliable software that delivers measurable value.
 
-My background in Mathematics and Computer Science provides a strong analytical foundation for solving complex engineering and AI challenges. I have delivered solutions across domains including financial technology, humanitarian systems, and enterprise applications, combining strong software engineering principles with emerging AI capabilities.
+Alongside my software engineering work, I focus on **AI engineering**, including Retrieval-Augmented Generation (RAG), Large Language Model (LLM) integrations, semantic search, document processing, and intelligent APIs. I've worked with tools and frameworks such as LangChain, FastAPI, vector databases, and embedding models to build systems that connect language models with relevant, source-grounded information.
 
-Currently expanding my expertise in advanced AI systems and digital transformation while pursuing a Master’s in Digital Transformation at Nexford University.
+With a background in Mathematics and Computer Science, I bring an analytical approach to software design, problem-solving, and emerging AI technologies. My experience spans financial technology, humanitarian systems, and enterprise applications.
 
-## Technical Skills
+I'm also pursuing a **Master's in Digital Transformation at Nexford University**, expanding my understanding of how technology, product strategy, and innovation come together to solve real-world problems.
 
+## 🛠️ Technical Skills
 
 ### Software Engineering
-- **Languages & Frameworks:** JavaScript, Node.js, React, 
-  TypeScript, Python, Laravel, Go (learning)
-- **Cloud Services:** AWS, GCP, Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **Architecture:** Serverless, Microservices, Monolith
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Backend:** Node.js, NestJS, Express.js, FastAPI, Django
+- **Frontend:** React, Next.js
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+- **Cloud & Infrastructure:** Azure, AWS, GCP, Docker
+- **Architecture:** REST APIs, Microservices, Monoliths, Serverless Systems
+- **Engineering Practices:** Automated Testing, CI/CD, API Design, Secure Software Development
 
-### AI Engineering 
-- **LLMs:** OpenAI GPT, Claude (Anthropic)
+### AI Engineering
+- **LLMs:** OpenAI GPT, Anthropic Claude, Open-Source LLMs
 - **Frameworks:** LangChain, LlamaIndex
-- **Vector Databases:** Weaviate, Chroma, Pinecone
-- **Embeddings:** OpenAI Embeddings, Sentence Transformers
-- **APIs:** FastAPI, REST
-- **Data:** RAG pipelines, document ingestion, semantic search
+- **RAG Systems:** Document Ingestion, Chunking, Embeddings, Retrieval, Semantic Search
+- **Vector Databases:** ChromaDB, Weaviate, Pinecone
+- **AI APIs:** FastAPI, LLM API Integration, Streaming Responses
+- **Other Areas:** Context Retrieval, Source Attribution, AI Workflow Orchestration
 
-## Experience
+## 💼 Experience
 
-Throughout my career, I've contributed to diverse web development projects, showcasing my versatility and dedication to building modern, innovative products. My work spans from backend services to frontend applications, always focusing on delivering high-quality software solutions.
+Throughout my career, I've contributed to enterprise applications, financial technology platforms, backend services, and modern web products. My work spans the full software development lifecycle, from system design and API development to frontend implementation, testing, deployment, and ongoing maintenance.
 
-##  Open Source Contributions
+I'm particularly interested in building dependable backend systems, designing scalable architectures, and applying AI where it solves a real problem rather than adding complexity.
 
-I strongly believe in the power of open source and actively contribute to various projects to foster collaboration and knowledge-sharing within the tech community. Some of my open-source initiatives include:
+## 🌍 Open Source Contributions
 
-- [osquery-pack-converter](https://github.com/parsimeikoikai/osquery-pack-converter.git)- A tool to convert queries into LML format for execution using fleetctl.
-- Actively Contributed to [FleetDM](https://github.com/fleetdm/),[Deep](https://github.com/the-deep/),
-- Actively engaging in discussions, submitting pull requests, and reviewing code in open-source communities.
+I believe in the value of open-source software, collaborative engineering, and knowledge sharing.
 
-I am always open to contributing to impactful projects and collaborating with other developers to improve open-source tools.
+- **[osquery-pack-converter](https://github.com/parsimeikoikai/osquery-pack-converter)** — A tool for converting queries into LML format for execution using `fleetctl`.
+- **[FleetDM](https://github.com/fleetdm/)** — Open-source device management and security tooling.
+- **[The DEEP](https://github.com/the-deep/)** — Humanitarian data and analysis tooling.
 
-## Current Projects
+I also engage with open-source communities through discussions, pull requests, code reviews, and collaborative problem-solving.
 
-### [HumaLens](https://github.com/parsimeikoikai/humalens.git), — RAG-Powered Humanitarian Assistant
+## 🚀 Current Projects
 
-An AI-powered search and knowledge assistant built using Retrieval Augmented Generation (RAG). HumaLens enables users to query large collections of documents using natural language, retrieve relevant context, and generate accurate, source-backed answers.
+### [HumaLens](https://github.com/parsimeikoikai/humalens) — RAG-Powered Humanitarian Assistant
 
-#### AI Engineering Highlights
-* Designed and implemented an end-to-end RAG pipeline for document ingestion, processing, embedding, retrieval, and generation
-* Built semantic search capabilities using vector databases and embedding models
-* Implemented document chunking, metadata handling, and context retrieval strategies
-* Developed LLM-powered question answering with source attribution and citation support
-* Built streaming AI responses through a FastAPI backend
-* Integrated LangChain orchestration for LLM workflows and retrieval pipelines
+An AI-powered knowledge assistant that helps users search large collections of documents using natural language and receive relevant, source-backed answers.
 
-#### Tech Stack
-* AI: LangChain, OpenAI Embeddings, LLM APIs, Retrieval Augmented Generation (RAG)
-* Vector Database: ChromaDB
-* Backend: FastAPI, Python
-* Frontend: React.js, Tailwind CSS
-* Infrastructure: Docker
+**Engineering highlights**
+- Designed a RAG pipeline for document ingestion, processing, embedding, retrieval, and generation.
+- Implemented semantic search and context-retrieval strategies.
+- Incorporated metadata handling and document chunking.
+- Built LLM-powered question answering with source attribution.
+- Developed streaming responses through a FastAPI backend.
+- Integrated LangChain to orchestrate retrieval and LLM workflows.
 
+**Tech stack:** Python, FastAPI, LangChain, ChromaDB, OpenAI Embeddings, React, Tailwind CSS, Docker.
 
-### EcoCredit
+### Tenara — Financial Intelligence Platform
 
-I am also working on [EcoCredit](https://ecocredit.pro), a comprehensive solution designed to manage farmer profiles, payments, loan disbursements, and related functionalities.
+I'm building **Tenara**, a financial intelligence platform designed to help financial institutions make better-informed lending decisions and help individuals understand their financial health.
 
-#### Key Features
-- **Farmer Profile Module:** Managing farmer data for payments and reporting.
-- **Payment Module:** Processing carbon credit sales proceeds.
-- **Loan Management Module:** Disbursing customized loan products.
-- **Farmer Payment Method Verification:** Verifying phone numbers with service providers.
-- **User Management and Personalization:** Custom alerts and notifications.
-- **Backups Module:** Ensuring data protection and recovery.
+The platform focuses on credit risk assessment, affordability insights, explainable assessments, and API-driven integrations. It brings together my interests in backend engineering, financial technology, product development, and applied AI.
 
-#### Tech Stack
-- **Backend:** Django, PostgreSQL
-- **Frontend:** React JS, Next JS
+**Focus areas:** Financial technology, credit intelligence, API design, risk assessment, explainable AI, and multi-tenant systems.
 
-### EventsLeo
+### [EcoCredit](https://ecocredit.pro) — Farmer Payments and Credit Management
 
-I am also working on [EventsLeo](https://www.eventleo.shop), an Event planning, coordination, and management workflows platform.
--  Scalable digital tools for organizing and managing events
--  Improved visibility and operational efficiency for event teams
+A platform focused on managing farmer profiles, payment workflows, loan disbursements, and related operations in the agricultural and carbon-credit ecosystem.
 
-## Education
+**Key capabilities**
+- Farmer profile management and reporting.
+- Carbon-credit proceeds and payment workflows.
+- Loan product and disbursement management.
+- Payment method verification.
+- User management, notifications, and backups.
 
-- **Bachelor's Degree in Mathematics and Computer Science**
-  - Multimedia University of Kenya
-- **MSc. Digital Transformation**
-  - Nexford University
+**Tech stack:** Django, PostgreSQL, React, Next.js.
 
-## Passion & Collaboration
+### [EventsLeo](https://www.eventleo.shop) — Event Management
 
-I am deeply passionate about building modern, innovative products and thrive on collaborating with professionals to deliver high-quality software solutions. I stay updated with industry trends through continuous learning and am always eager to tackle new challenges and opportunities.
+A platform for event planning, coordination, and management workflows, helping teams organize activities and improve operational visibility.
 
-## Connect with Me
+## 🎓 Education
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/robert-parsimei). Feel free to reach out if you'd like to discuss potential collaborations or opportunities.
+- **MSc. Digital Transformation** — Nexford University *(in progress)*
+- **BSc. Mathematics and Computer Science** — Multimedia University of Kenya
+
+## 🤝 Passion & Collaboration
+
+I'm passionate about engineering reliable software, exploring practical applications of AI, and building products that solve meaningful problems. I enjoy collaborating with engineers, product teams, and organizations that value thoughtful system design, continuous learning, and high-quality delivery.
+
+I'm particularly interested in opportunities involving **senior software engineering, backend architecture, AI-enabled applications, and intelligent API platforms**.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Robert Parsimei Koikai](https://www.linkedin.com/in/robert-parsimei)
+
+Feel free to connect if you're interested in software engineering, backend systems, AI engineering, open source, or building products from the ground up.
