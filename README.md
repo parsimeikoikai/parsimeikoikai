@@ -63,7 +63,7 @@ An AI-powered knowledge assistant that helps users search large collections of d
 
 **Tech stack:** Python, FastAPI, LangChain, ChromaDB, OpenAI Embeddings, React, Tailwind CSS, Docker.
 
-### Tenara [Tenara](https://www.tenara.site) — Financial Intelligence Platform
+### [Tenara](https://www.tenara.site) — Financial Intelligence Platform
 
 I'm building **Tenara**, a financial intelligence platform designed to help financial institutions make better-informed lending decisions and help individuals understand their financial health.
 
