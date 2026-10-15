@@ -12,7 +12,7 @@ With a background in Mathematics and Computer Science, I bring an analytical app
 
 I'm also pursuing a **Master's in Digital Transformation at Nexford University**, expanding my understanding of how technology, product strategy, and innovation come together to solve real-world problems.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Software Engineering
 - **Languages:** TypeScript, JavaScript, Python, SQL
@@ -31,13 +31,13 @@ I'm also pursuing a **Master's in Digital Transformation at Nexford University**
 - **AI APIs:** FastAPI, LLM API Integration, Streaming Responses
 - **Other Areas:** Context Retrieval, Source Attribution, AI Workflow Orchestration
 
-## 💼 Experience
+## Experience
 
 Throughout my career, I've contributed to enterprise applications, financial technology platforms, backend services, and modern web products. My work spans the full software development lifecycle, from system design and API development to frontend implementation, testing, deployment, and ongoing maintenance.
 
 I'm particularly interested in building dependable backend systems, designing scalable architectures, and applying AI where it solves a real problem rather than adding complexity.
 
-## 🌍 Open Source Contributions
+## Open Source Contributions
 
 I believe in the value of open-source software, collaborative engineering, and knowledge sharing.
 
@@ -47,7 +47,7 @@ I believe in the value of open-source software, collaborative engineering, and k
 
 I also engage with open-source communities through discussions, pull requests, code reviews, and collaborative problem-solving.
 
-## 🚀 Current Projects
+## Current Projects
 
 ### [HumaLens](https://github.com/parsimeikoikai/humalens) — RAG-Powered Humanitarian Assistant
 
@@ -88,18 +88,18 @@ A platform focused on managing farmer profiles, payment workflows, loan disburse
 
 A platform for event planning, coordination, and management workflows, helping teams organize activities and improve operational visibility.
 
-## 🎓 Education
+## Education
 
 - **MSc. Digital Transformation** — Nexford University *(in progress)*
 - **BSc. Mathematics and Computer Science** — Multimedia University of Kenya
 
-## 🤝 Passion & Collaboration
+##  Passion & Collaboration
 
 I'm passionate about engineering reliable software, exploring practical applications of AI, and building products that solve meaningful problems. I enjoy collaborating with engineers, product teams, and organizations that value thoughtful system design, continuous learning, and high-quality delivery.
 
 I'm particularly interested in opportunities involving **senior software engineering, backend architecture, AI-enabled applications, and intelligent API platforms**.
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [Robert Parsimei Koikai](https://www.linkedin.com/in/robert-parsimei)
 
